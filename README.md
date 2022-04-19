@@ -1,2 +1,2 @@
 # GatewayRevision
-Travel to Californi
+Travel to California
