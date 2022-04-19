@@ -1,0 +1,26 @@
+li {
+    float:left; 
+    padding: 10px;
+    
+}
+ul {
+    list-style-type: none;
+   
+}
+section {
+    float: ;
+    position: relative;
+    
+}
+p {
+    padding-bottom: 10px;
+    padding-right: 10px;
+    color: black;
+}
+html {
+    background-color: rgb(188, 188, 167);
+}
+footer {
+    bottom: 0;
+    position: absolute;
+}

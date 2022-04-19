@@ -1,0 +1,23 @@
+li {
+    float: left;
+    padding: 5px;
+    color:rgb(3, 3, 3);
+    margin-left: 55px;
+
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+section {
+  
+    width: 1280px;
+    height: 720px;
+}
+html {
+    background-color: rgb(189, 180, 170);
+}
+footer {
+    bottom:0;
+    position: relative;
+}

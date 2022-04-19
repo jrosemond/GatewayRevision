@@ -1,0 +1,28 @@
+li {
+    float:left;
+    padding: 10px;
+
+}
+ul {
+    list-style-type: none;
+}
+aside {
+    width: 30%;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: #C5CBE3;
+  }
+  article{
+    float: center;
+    position: sticky;
+}
+html {
+    background-color: #EFE2BA;
+}
+footer {
+    bottom: 25;
+    position: absolute;
+}
